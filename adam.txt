@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 # just testing
 
+=======
+fun main() {
+println( "hello" )
+}
+>>>>>>> adamD
